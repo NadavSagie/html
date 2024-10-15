@@ -16,7 +16,7 @@ body {
   display: flex;
   justify-items: center;
   justify-content: space-around; 
-  background-image: url("img/rrr.jpeg");
+  background-image: url("images/rrr.jpeg");
   background-size: cover;
   background-position: center;
   box-shadow: 0 0 5px 2px #ccc;
