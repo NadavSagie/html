@@ -28,7 +28,6 @@ body {
   right: 0%;
   left: 0;
   margin: auto;
-  
 }
 .button-bar button {
   padding: 10px 30px;
@@ -36,6 +35,10 @@ body {
   border: 2 px;
   border-radius: 25px;
   cursor: pointer;
+  font-family: Arial;
+  font-size: 14;
+  font-weight: bold;
+  text-decoration-line: none;
   
 }
 
