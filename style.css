@@ -38,11 +38,23 @@ body {
   font-family: Arial;
   font-size: 14;
   font-weight: bold;
-  text-decoration-line: none;
-  
+  text-decoration-line: none;  
 }
 
 .button-bar button:hover {
 	background-color: #edc39b;	
+}
+.button-bar-button {
+	border-radius: 15%;
+	background-color: #7FFFD4;
+	border-radius: 25px;
+	cursor: pointer;
+	font-family: Arial;
+	font-size: 14;
+	font-weight: bold;
+	text-decoration-line: none;
+	padding: 5;
+	margin: 5;
+	justify-content: center;
 	
 }
